@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JyotiradityaGandhi
 - 👀 I’m interested in every aspect of Computer Science, be it App and Web Dev, Cyber Security, and everything in between. 
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Frontend Projects to learn and practice more!
+- 💞️ I’m looking to collaborate on Frontend Projects, and Java Concepts to learn and practice more!
 - 📫 How to reach me: Email: unbroductive@gmail.com
 
 <!---
