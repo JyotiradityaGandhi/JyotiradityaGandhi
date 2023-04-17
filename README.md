@@ -1,4 +1,4 @@
-##p.s. I'm currently in the process of updating my github profile, so forgive the emptiness ;)
+p.s. I'm currently in the process of updating my github profile, so forgive the emptiness ;)
 
 ### Hi there 👋
 
