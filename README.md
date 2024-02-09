@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Advanced concepts in React**
 
-- 👯 I’m looking to collaborate on **Any Full Stack Project** 
+- 👯 I’m looking to collaborate on **Fun Projects** 
 
 - ⚡ Fun fact **I love daydreaming about dinosaurs doing parkour (Velociraptors are my go-to choice, what's yours?)**
 
