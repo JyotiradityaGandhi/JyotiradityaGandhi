@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working as a **Core Backend Developer at an Early-Stage Tech Startup**
 
-- 👯 I’m looking to collaborate on **Fun Projects** 
+- 👯 I’m looking to collaborate on **Hobby Projects that could potentially impact a percentage of the population** 
 
 - ⚡ Fun fact about me: **I love daydreaming about dinosaurs doing parkour (Velociraptors are my go-to choice, what's yours?)**
 
