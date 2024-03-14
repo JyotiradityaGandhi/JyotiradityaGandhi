@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jyotiraditya Gandhi</h1>
-<h3 align="center">A passionate MERN Developer</h3>
+<h3 align="center">An aspiring Software Developer</h3>
 
 - 🌱 I’m currently learning **Advanced concepts in React**
 
 - 👯 I’m looking to collaborate on **Fun Projects** 
 
-- ⚡ Fun fact **I love daydreaming about dinosaurs doing parkour (Velociraptors are my go-to choice, what's yours?)**
+- ⚡ Fun fact about me: **I love daydreaming about dinosaurs doing parkour (Velociraptors are my go-to choice, what's yours?)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
