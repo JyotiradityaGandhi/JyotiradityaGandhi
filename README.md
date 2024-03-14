@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jyotiraditya Gandhi</h1>
 <h3 align="center">An aspiring Software Developer</h3>
 
-- 🌱 I’m currently learning **Advanced concepts in React**
+- 🌱 I’m currently working as a **Core Backend Developer at an Early-Stage Tech Startup**
 
 - 👯 I’m looking to collaborate on **Fun Projects** 
 
