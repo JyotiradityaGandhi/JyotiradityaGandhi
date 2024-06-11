@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jyotiraditya Gandhi</h1>
 <h3 align="center">An aspiring Software Developer</h3>
 
-- 🌱 I’m currently working as a **Core Backend Developer at an Early-Stage Tech Startup**
+- 🌱 I’m currently looking for Software Engineering roles that can help me learn and grow
 
 <!-- - 👯 I’m looking to collaborate on **Hobby Projects that could potentially impact a percentage of the population** -->
 - ⚡ Fun fact about me: **I love daydreaming about dinosaurs doing parkour (Velociraptors are my go-to choice, what's yours?)**
